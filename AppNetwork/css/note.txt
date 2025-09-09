@@ -1,0 +1,6 @@
+- Pendiente ajustar los iconos en la pestaña de las paginas
+- Pendiente ajustar textos en ingles
+- Validar como es la entrega
+- Hacer revision final
+- Pantalla de carga aun es azul
+- Ajustar placeholder del campo de contacto estan en ingles
