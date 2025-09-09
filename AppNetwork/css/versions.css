@@ -27,7 +27,7 @@
 body.host_version .icon_wrap i,
 body.host_version .customwidget li i,
 body.host_version .navbar-nav span {
-    color: #2d3032 !important;
+    color: #ffffff !important;
 }
 
 body.host_version .lead strong,
@@ -79,7 +79,7 @@ body.host_version .grd1:hover,
 body.host_version .grd1:focus {
     background-position: 100px;
     color: #ffffff !important;
-    background: #00aeef;
+    background: #f25c07;
 }
 
 body.host_version .checkdomain {
